@@ -1,3 +1,6 @@
 file
 second update
+
 create conflict from master
+
+creating conflict
